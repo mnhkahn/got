@@ -1,5 +1,6 @@
 package main
 
+// tr -d '\040\011\012\015'
 import (
 	"io/ioutil"
 	"log"
